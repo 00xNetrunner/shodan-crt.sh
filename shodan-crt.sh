@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Created by 00xNetrunner
+# I got inspired to write this script when i was doing the foot printing module on HTB Academy. i thought it could do with some automation. 
+
 # Ensure a domain is provided as an argument
 if [ $# -eq 0 ]; then
     echo "Usage: $0 <domain>"
