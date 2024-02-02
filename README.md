@@ -1,9 +1,9 @@
 # shodan-crt.sh 🌐🔍
 
-![GitHub](https://img.shields.io/github/license/your-username/shodan-crt.sh)
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/shodan-crt.sh)
-![GitHub issues](https://img.shields.io/github/issues/your-username/shodan-crt.sh)
-![GitHub stars](https://img.shields.io/github/stars/your-username/shodan-crt.sh?style=social)
+![GitHub](https://img.shields.io/github/license/00xNetrunner/shodan-crt.sh)
+![GitHub last commit](https://img.shields.io/github/last-commit/00xNetrunner/shodan-crt.sh)
+![GitHub issues](https://img.shields.io/github/issues/00xNetrunner/shodan-crt.sh)
+![GitHub stars](https://img.shields.io/github/stars/00xNetrunner/shodan-crt.sh?style=social)
 
 `shodan-crt.sh` is a script designed to automate the process of gathering Open Source Intelligence (OSINT) on a particular domain. It extracts subdomains using crt.sh, resolves them to IP addresses, and then queries Shodan for detailed information about these IPs.
 
